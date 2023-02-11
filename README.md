@@ -20,7 +20,7 @@
 ![Terminal](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=Terminal)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ashwinigadad&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=vedanthvnayak&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ashwinigadad&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=Ashwinigadad&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Github Stats:
