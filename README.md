@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 👋 Hi, I’m @Ashwinigadad
-- 👀 I’m interested in linux, opensource, python coding,software testing, quantum physics and quantum computing.
+- 👀 I’m interested in c programming,html,web development,Javascript.
 - 🌱 I’m currently learning BE in computer science 
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ashwinigadad3@gmail.com
