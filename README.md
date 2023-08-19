@@ -1,15 +1,19 @@
 <!---
 ##my status
 --->
+
 # HELLO, FOLKS 👋
 ![](https://komarev.com/ghpvc/?username=Ashwinigadad&color=brightgreen&styl=plastic)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
+ <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - 👋 Hi, I’m @Ashwinigadad
 - 👀 I’m interested in c programming,html,web development,Javascript.
 - 🌱 I’m currently learning BE in computer science 
 - 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ashwinigadad3@gmail.com
+- ## Find me around the web 🌎:
+- 📫 Gmail : ashwinigadad3@gmail.com
+  
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Languages and Tools:
 
@@ -25,7 +29,11 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Github Stats:
 
-<img alt="Ashwini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashwinigadad&theme=react-dark&area=true" width="100%">
+<!--<img alt="Ashwini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashwinigadad&theme=react-dark&area=true" width="100%">-->
+<a> 
+<!--<img src="https://github.com/Ashwinigadad/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />-->
+<img src="https://github.com/Ashwinigadad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
