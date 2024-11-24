@@ -7,7 +7,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
  <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - 👋 Hi, I’m @Ashwinigadad
-- 👀 I’m interested in c programming,html,web development,Javascript.
+- 👀 I’m interested in c programming,html,web development,Javascript,MERN Stack,Docker
 - 🌱 I’m currently learning BE in computer science 
 - 💞️ I’m looking to collaborate on ....
 - ## Find me around the web 🌎:
