@@ -13,6 +13,8 @@
 - ## Find me around the web 🌎:
 - 📫 Gmail : ashwinigadad3@gmail.com
 - 🌐Portfolio : https://portfolio-six-mu-80.vercel.app/
+- 💼LinkedIn : https://www.linkedin.com/in/tangevva-r-gadad-0b20a625a/
+- ✨Instagram : https://instagram.com/ash.gadad
 
   
 
