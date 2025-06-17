@@ -7,7 +7,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
  <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - 👋 Hi, I’m Tangevva R Gadad
-- 👀 I’m interested in c programming,Java,Javascript,web development,MERN Stack,Docker,
+- 👀 I’m interested in c programming,Java,Javascript,web development,MERN Stack,Next JS,Docker,
 - 🌱 I’m currently learning BE in computer science 
 - 💞️ I’m looking to collaborate on ....
 - ## Find me around the web 🌎:
