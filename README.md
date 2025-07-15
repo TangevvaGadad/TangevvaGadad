@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Ashwinigadad&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=Ashwinigadad&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TangevvaGadad&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub Streak Stats"><img src="https://github-readme-stats.vercel.app/api?username=TangevvaGadad&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="My GitHub Stats">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -47,8 +47,8 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinigadad&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TangevvaGadad&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true" /><br/><br/><br/><br/><br/><br/>
 
 
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=Ashwinigadad&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=TangevvaGadad&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
